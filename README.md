@@ -16,6 +16,7 @@ Aplicación web local para gestión comercial de leads, preleads, llamadas, reun
 - `serve.py`: servidor local.
 - `supabase/migrations/`: cambios de base de datos.
 - `tests/`: pruebas de contrato del frontend y Supabase.
+- `vercel.json`: configuración para servir la aplicación desde la ruta principal en Vercel.
 
 ## Verificación
 
